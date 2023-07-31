@@ -3,7 +3,7 @@
   <a href = "mailto:mhcleroy@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/marcosleroy/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-
+<br>
 <div align="center">
   <a href="https://github.com/MarcosLeroy">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarcosLeroy&theme=vue-dark&show_icons=true&hide_border=true&count_private=true"/>
